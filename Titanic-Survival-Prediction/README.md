@@ -32,7 +32,7 @@ Titanic-Survival-Prediction/
 
 To clone the repository, use the following command:
 ```bash
-git clone https://github.com/your-username/Titanic-Survival-Prediction.git
+!git clone https://github.com/Rambanni2004/Titanic-Survival-Prediction.git
 
 ```
 ### 2. Install dependencies:
