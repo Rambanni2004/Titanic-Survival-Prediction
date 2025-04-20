@@ -16,12 +16,13 @@ The dataset is available in the `data/` folder as `tested.csv`. You can also dow
 
 ## Steps to Run the Project:
 
-You can clone this entire repository using the command below. Also, you need to download the dataset, which is included in the /data folder.
+You can clone this entire repository using the command below.
 
-**Clone the Repository:**
+**Clone the repository or download the files directly from GitHub:**
    ```bash
    git clone https://github.com/yourusername/Titanic-Survival-Prediction.git
 ```
+NOTE : You need to download the dataset, which is included in the /data folder.
 
 Create a new notebook in Google Colab and upload the Titanic_Survival_Prediction.ipynb file.
 
