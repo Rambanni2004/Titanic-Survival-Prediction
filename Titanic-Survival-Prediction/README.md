@@ -24,5 +24,31 @@ Titanic-Survival-Prediction/
 │   └── Titanic_Survival_Prediction.ipynb # Your notebook with all the code
 ├── requirements.txt                 # Dependencies for the project (you can manually create it)
 └── README.md                        # Project documentation (this file)
+```
 
+## Steps to Run the Project
 
+### 1. Clone the repository to your local machine or open it in Google Colab.
+
+To clone the repository, use the following command:
+```bash
+git clone https://github.com/your-username/Titanic-Survival-Prediction.git
+
+```
+### 2. Install dependencies:
+
+Use requirements.txt to install the necessary libraries. You can install them using the following command:
+
+```bash
+pip install -r requirements.txt
+
+```
+
+### 3. Run the Jupyter notebook:
+
+Open the notebook Titanic_Survival_Prediction.ipynb in your preferred Jupyter environment (such as Google Colab or Jupyter Notebook).
+
+Execute each cell in the notebook to go through the steps of data preprocessing, model training, and evaluation.
+
+## Conclusion
+This project demonstrates how to use machine learning to predict survival on the Titanic disaster based on passenger data. It includes all necessary steps for data preprocessing, model training, and evaluation. The model's performance is evaluated using common metrics like accuracy, precision, recall, and F1 score.
